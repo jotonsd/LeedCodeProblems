@@ -16,6 +16,7 @@ vector<int> runningSum(vector<int>& nums) {
 
         // assigning the value into the result key
         result[i] = sum;
+        cout<<result[i]<<",";
 
     }
     return result;
