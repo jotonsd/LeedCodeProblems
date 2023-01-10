@@ -15,7 +15,7 @@ bool isIsomorphic(string s, string t) {
             // s[i] and t[i] should map to a same digits.
             map1[s[i]] = map2[t[i]] = i;
         }
-        return true;
+    return true;
     
 }
 int main ()

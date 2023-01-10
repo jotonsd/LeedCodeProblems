@@ -21,8 +21,7 @@ bool isSubsequence(string s, string t) {
         return true;
     }else{
         return false;
-    }
-    
+    }    
     
 }
 int main ()
